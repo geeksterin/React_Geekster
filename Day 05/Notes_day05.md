@@ -161,4 +161,3 @@ That's it! You now have a fully functional React development environment set up 
 
 
 
-R
