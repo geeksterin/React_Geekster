@@ -84,3 +84,5 @@ const element = React.createElement("h1", null, "Hello, world!");
 In the transpiled code, the JSX syntax is converted into a function call to React.createElement(), which creates a React element. The first argument to React.createElement() is the name of the element (in this case, "h1"), the second argument is any attributes the element has (in this case, there are no attributes), and the third argument is the element's children (in this case, the text "Hello, world!").
 
 Babel uses the React.createElement() function to create a tree of React elements based on the JSX code. This tree is what React uses to render the component.
+
+
