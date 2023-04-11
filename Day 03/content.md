@@ -1,21 +1,3 @@
-<div align="center">
-  <h1> 30 Days Of React: Components </h1>
-  <!-- <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/"> -->
-  <!-- <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"> -->
-  <!-- </a> -->
-  <!-- <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh"> -->
-  <!-- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social"> -->
-  <!-- </a> -->
-
-<!-- <sub>Author: -->
-<!-- <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Geekster</a><br> -->
-
-<!-- <small> August, 2022</small> -->
-</sub>
-
-</div>
-
-<!-- [<< Day 4](../04_Day_Component/04_components.md) | [Day 6 >>](../06_Day_Map_List_Keys/06_map_list_keys.md) -->
 # Components
 
 A React component is a small, reusable code, which is responsible for one part of the application UI. A React application is an aggregation of components. React can help us to build reusable components. The following diagram shows different components. All the components have different border colors. In React we assemble different components together to create an application. We use JavaScript functions or classes to make components. If we use a function, the component will be a functional component, but if we use a class, the component will be a class-based component.
