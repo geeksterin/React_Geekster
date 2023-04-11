@@ -1,1 +1,1 @@
-## Develop Static Website using React Component Concept Without Reusing the Componentss
+## Develop Static Website using React Component Concept Without Reusing the Components

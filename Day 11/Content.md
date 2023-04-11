@@ -1,4 +1,6 @@
-# API:
+# Notes
+
+## API:
 
 In React, you can make API calls to retrieve data from a remote server using a variety of methods, including the Fetch API and the Axios library. You can use these methods to fetch data from a server and then update the state of your React component with the retrieved data.
 
@@ -28,7 +30,7 @@ function App() {
 export default App;
 ```
 
-# API Call on Button Click:
+## API Call on Button Click:
 
 To make an API call in React on button click, you can add a click event handler to your button and then use one of the API methods mentioned above to fetch data from a server.
 
@@ -60,7 +62,7 @@ function App() {
 export default App;
 ```
 
-# Conditional Rendering:
+## Conditional Rendering:
 
 Conditional rendering in React is done using conditional statements like if, else, and ternary operators. You can use these statements to conditionally render elements based on the state of your React component.
 
@@ -87,7 +89,7 @@ function App() {
 export default App;
 ```
 
-# List Rendering:
+## List Rendering:
 
 In React, you can render lists of elements by using the map() function on an array of data. This allows you to dynamically generate elements based on the data in your component's state.
 
@@ -111,7 +113,7 @@ function App() {
 export default App;
 ```
 
-# Key and Value:
+## Key and Value:
 
 In React, the key and value properties are often used when rendering lists of elements. The key property is a unique identifier for each element in the list, and the value property is the data to be rendered for each element.
 Here's an example of how to render a list of items in React with key and value properties:
@@ -142,3 +144,26 @@ In this example, each item in the list has an `id` and a `name` property, and th
 
 I hope these notes help you better understand the topics of API, API call on button click, conditional rendering, list rendering, key and value in the context of React. Let me know if you have any further questions or if there's anything else I can help you with!
 
+# Assignment
+
+- Create a React component that retrieves data from an API and displays a list of items. The component should include a button that, when clicked, fetches data from the API and updates the list.
+
+- The list of items should be rendered conditionally based on whether or not data has been fetched from the API. If data has been fetched, the list should be rendered using the map() function.
+
+- Each item in the list should have a unique key and display a name and a description.
+
+- Hers is the Api - [Api](https://fakestoreapi.com/products/1)
+
+
+# Interview Questions : 
+
+1. What is an API and how does it work with React?
+2. Can you explain the difference between a GET and POST request in an API call?
+3. How do you handle errors in an API call in React?
+4. How do you make an API call when a button is clicked in React?
+5. What is conditional rendering in React and why is it important?
+6. Can you explain the difference between if-else statements and ternary operators for conditional rendering in React?
+7. What is list rendering in React and how is it different from conditional rendering?
+8. What is the purpose of the "key" prop in list rendering?
+9. How do you update a list in React when new data is added?
+10. Can you explain the importance of React's virtual DOM in optimizing list rendering performance?
