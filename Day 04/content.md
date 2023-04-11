@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Day 04/Assignments_day04.md
 ## Develop Static Website using React Component Concept Without Reusing the Components
 
 Developing a static website using React components can be a great way to create a scalable, modular website that is easy to maintain and update. To do this without reusing components, you will need to create each component individually and add them to the appropriate page. Here are the steps you can follow to create a static website using React components:
@@ -13,3 +14,6 @@ Developing a static website using React components can be a great way to create 
 - Test and deploy your website: Once you have finished building your website, you can test it locally using a development server. When you are ready to deploy your website, you can use tools like Netlify or GitHub Pages to host your website.
 
 By following these steps, you can create a static website using React components without reusing any components. While this approach can be more time-consuming than reusing components, it allows you to have more control over the layout and functionality of each page on your website.
+=======
+## Develop Static Website using React Component Concept Without Reusing the Components
+>>>>>>> c1f7c437f00768a7a9e0e8e7aad6abb071d671cc:Day 04/content.md
